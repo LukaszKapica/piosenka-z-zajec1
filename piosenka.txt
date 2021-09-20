@@ -1,4 +1,8 @@
-
+zwrotka1.txt
+refren.txt
+zwrotka2.txt
+refren.txt
+zwrotka3.txt
 Łąka na niebie się kończy
 Ja tańczę tańczę na słońcu
 Słowo na które czekałem
